@@ -1,0 +1,11 @@
+.Learn-container {
+    background-color: #0bb1c7;
+    height: 100vh;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgb(255, 255, 255);
+    object-fit: cover;
+  }
