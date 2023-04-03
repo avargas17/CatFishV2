@@ -4,8 +4,8 @@ given area
 
 - The application relies on a geolocation to initliaize the connections to other nearby pet owners.
 
-- The application accomodates to all type of pet owners.
+- The application accomodates to all types of pet owners.
 
-- The application also features in appliation messaging between the two parties 
+- The application also features in app messaging for a faster connection between the two parties 
 
 Many features still require implementation but the structure of the application is layed out. 
